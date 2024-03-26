@@ -10,7 +10,7 @@
     "inputs": {},
     "moduleInputs": {},
     "jsonPathKeys": [],
-    "isValid": false,
+    "isValid": true,
     "invalids": [
       "Module instance does not have a valid module reference in the workspace. Please update the existing package \"Untitled Package 1\" with module QueryModule1 to resolve this issue."
     ],
